@@ -70,7 +70,7 @@ def main():
     links = st.expander("Related Links")
     if links:
         links.write("[Dataset](https://www.kaggle.com/akudnaver/amazon-reviews-dataset)")
-        links.write("[Github](https://github.com/rimpaghosh96/University_of_Esssex_MSc)")
+        links.write("[Github](https://github.com/rimpaghosh96/University_of_Esssex_MSc/tree/main/Fake_Reviews_Identification_Project)")
         
 
 
